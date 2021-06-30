@@ -264,6 +264,7 @@ def main():
     st.sidebar.markdown("--")
     st.sidebar.markdown("Created by: Jame Zou")
     st.sidebar.markdown("GitHub Repository: [Click here](https://github.com/jamezou/streamers-project)")
+    st.sidebar.markdown("Deepnote: [Average Viewers for Twitch Streamers Report](https://deepnote.com/@jamezou/streamer-project-AhqZ5-waQnGZWuno2LOIKA)")
     st.sidebar.markdown(f"Data obtained from [SullyGnome.com](https://SullyGnome.com)")
 
 
