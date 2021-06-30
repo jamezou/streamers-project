@@ -263,7 +263,7 @@ def main():
     # ending remarks
     st.sidebar.markdown("--")
     st.sidebar.markdown("Created by: Jame Zou")
-    st.sidebar.markdown("GitHub Repository: [Click here]()")
+    st.sidebar.markdown("GitHub Repository: [Click here](https://github.com/jamezou/streamers-project)")
     st.sidebar.markdown(f"Data obtained from [SullyGnome.com](https://SullyGnome.com)")
 
 
